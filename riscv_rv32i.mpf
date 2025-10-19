@@ -1,0 +1,19 @@
+# ModelSim Project File
+Project_Version = 6
+Project_DefaultLib = work
+Project_SortMethod = unused
+Project_Files_Count = 0
+Config_Compilation_Results_Dir = ./sim_out
+
+# Compiler Options
+Project_Compile_On_Save = 1
+Project_Compile_EOL = windows
+Project_Compile_LoadOrder = 0
+Project_Compile_LoadUnspecifiedLibs = 0
+Project_Compile_RelativePath = 1
+
+# Simulation Options
+Project_Sim_DefaultRunLength = 1000ns
+Project_Sim_LogProgress = 1
+Project_Sim_CoverageReport = 0
+Project_Sim_CoverageReportFileName = coverage_report.txt

@@ -1,0 +1,34 @@
+=== Simulation started at 2025-10-19 13:46:14 ===
+Running testbench: tb_alu
+Simulating work.tb_alu ...
+
+--- Simulator Key Output ---
+# === Start tb_FA comparison ===
+# PASS line 1: alu_op=0000 operand_a=00000030 operand_b=00000006
+# PASS line 2: alu_op=0001 operand_a=00000025 operand_b=00000010
+# PASS line 3: alu_op=0010 operand_a=0000ffff operand_b=ffffffff
+# PASS line 4: alu_op=0011 operand_a=0000ffff operand_b=ffffffff
+# PASS line 5: alu_op=0100 operand_a=0000f0f0 operand_b=00000ff0
+# PASS line 6: alu_op=0101 operand_a=0000ff00 operand_b=00000ff0
+# PASS line 7: alu_op=0110 operand_a=0000f000 operand_b=0000ff00
+# PASS line 8: alu_op=1000 operand_a=ffffffff operand_b=00000004
+# PASS line 9: alu_op=1001 operand_a=ffffffff operand_b=00000004
+# PASS line 10: alu_op=1010 operand_a=ffffffff operand_b=00000004
+# === tb_alu PASSED ===
+# === Start tb_FA comparison ===
+# PASS line 1: alu_op=0000 operand_a=00000030 operand_b=00000006
+# PASS line 2: alu_op=0001 operand_a=00000025 operand_b=00000010
+# PASS line 3: alu_op=0010 operand_a=0000ffff operand_b=ffffffff
+# PASS line 4: alu_op=0011 operand_a=0000ffff operand_b=ffffffff
+# PASS line 5: alu_op=0100 operand_a=0000f0f0 operand_b=00000ff0
+# PASS line 6: alu_op=0101 operand_a=0000ff00 operand_b=00000ff0
+# PASS line 7: alu_op=0110 operand_a=0000f000 operand_b=0000ff00
+# PASS line 8: alu_op=1000 operand_a=ffffffff operand_b=00000004
+# PASS line 9: alu_op=1001 operand_a=ffffffff operand_b=00000004
+# PASS line 10: alu_op=1010 operand_a=ffffffff operand_b=00000004
+# === tb_alu PASSED ===
+
+
+=== Simulation Summary ===
+Testbench: tb_alu
+Result: PASSED
