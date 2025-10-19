@@ -1,0 +1,10 @@
+0000 30 6
+0001 25 10
+0010 0000ffff ffffffff
+0011 0000ffff ffffffff
+0100 f0f0 0ff0
+0101 ff00 0ff0
+0110 f000 ff00
+1000 ffffffff 4
+1001 ffffffff 4
+1010 ffffffff 4
